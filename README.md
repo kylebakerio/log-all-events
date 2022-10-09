@@ -5,7 +5,10 @@
 ## features
 - includes synthetic and native events
 - some settings to modify verbosity
-- combine with [a-console](https://github.com/kylebakerio/a-console) to see these events in VR, as per demo
+- combine with [a-console](https://github.com/kylebakerio/a-console) to see these events in VR, as per [demo](https://log-all-events.glitch.me/)
+
+![image](https://user-images.githubusercontent.com/6391152/194784295-138fc0c8-713d-4170-a608-97b99709b1e3.png)
+
 
 ```html
 <head>
